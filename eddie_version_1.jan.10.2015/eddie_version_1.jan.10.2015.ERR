@@ -1,0 +1,4 @@
+arm_down.c: In function 'arm_down':
+arm_down.c line# 11:7: warning: suggest parentheses around assignment used as truth value
+arm_up.c: In function 'arm_up':
+arm_up.c line# 11:7: warning: suggest parentheses around assignment used as truth value
